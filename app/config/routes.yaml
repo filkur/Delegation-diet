@@ -1,0 +1,3 @@
+delegation_diet:
+  path: /delegation-diet
+  controller: App\Controller\DelegationDietController
